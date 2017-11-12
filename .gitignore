@@ -1,0 +1,7 @@
+/*.txt
+!file10.txt
+*.dll
+!my_special_dll.dll
+*.log.*
+README
+!/docs/README
